@@ -1,2 +1,3 @@
 # Nordin-Crypto-
-Blockchain
+
+welkom bij de training Blockchain
